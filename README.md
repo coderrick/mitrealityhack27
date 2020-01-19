@@ -1,4 +1,4 @@
-# mitrealityhack27
+#MRSLLS
 <img src="designs/32.png" height="250" width="300">
 ASL Mixer Reality Learning Studio
 
@@ -20,7 +20,7 @@ https://mrslls.glitch.me/
 ## Contributing
 ***
 ## Getting Started
-<img src="designs/unity-logo.png" height="250" width="325">
+<img src="designs/unity-logo.png" height="250" width="425">
 
 Must have unity Unity 2019.2.18 installed inorder to do development for the Nreal or Hololens 2 platforms:
 
