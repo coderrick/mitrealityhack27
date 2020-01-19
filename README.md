@@ -8,14 +8,13 @@ This project was developed at the 2020 MIT Reality Hacks Hackathon. The purpose 
 Nreal, follow their guide for setting up the Unity environment for the Dev Kit:
 https://developer.nreal.ai/develop/unity/android-quickstart
 
+## Installation Hololens 2
 Hololens 2, follow their guide for setting up the Unity environment for Windows:
 https://docs.microsoft.com/en-us/windows/mixed-reality/mrlearning-base
 
-Now to go to our website to download the unity binary to install on your Androin phone:
+**Now to go to our website to download the unity binary:**
 
 https://mrslls.glitch.me/
-
-## Installation Hololens 2
 
 ## Contributing
 ***
