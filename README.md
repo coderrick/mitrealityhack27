@@ -21,11 +21,11 @@ https://mrslls.glitch.me/
 Must have unity Unity 2019.2.18 installed inorder to do development for the Nreal or Hololens 2 platforms:
 
 ## Nreal
----
+...
 https://developer.nreal.ai/develop/unity/android-quickstart
 
 
 ## Hololens 2
----
+...
 https://docs.microsoft.com/en-us/windows/mixed-reality/mrlearning-base-ch1
 
