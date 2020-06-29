@@ -16,14 +16,17 @@ https://mrslls.glitch.me/
 
 ## Contributing
 ***
-<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" height="200" width="200">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" height="125" width="125">
 
 Must have unity Unity 2019.2.18 installed inorder to do development for the Nreal or Hololens 2 platforms, follow the quickstart guides to get the base environment setup for each device:
 
 ## Nreal
+<img src="https://www.nreal.ai/logo.jpg" height="125" width="125">
+
 https://developer.nreal.ai/develop/unity/android-quickstart
 
 
 ## Hololens 2
-https://docs.microsoft.com/en-us/windows/mixed-reality/mrlearning-base-ch1
+<img src="https://cdn.vox-cdn.com/thumbor/lpqTvPPrCAX13fRjPfn7G1JAlMU=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/14130271/vpavic_190131_3213_0046.jpg" height="125" width="125">
+
 
