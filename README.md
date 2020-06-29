@@ -16,7 +16,7 @@ https://mrslls.glitch.me/
 
 ## Contributing
 ***
-<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" height="250" width="250">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" height="200" width="200">
 
 Must have unity Unity 2019.2.18 installed inorder to do development for the Nreal or Hololens 2 platforms, follow the quickstart guides to get the base environment setup for each device:
 
