@@ -29,4 +29,6 @@ https://developer.nreal.ai/develop/unity/android-quickstart
 ## Hololens 2
 <img src="https://cdn.vox-cdn.com/thumbor/lpqTvPPrCAX13fRjPfn7G1JAlMU=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/14130271/vpavic_190131_3213_0046.jpg" height="125" width="125">
 
+https://docs.microsoft.com/en-us/windows/mixed-reality/mrlearning-base-ch1
+
 
